@@ -1,6 +1,6 @@
-Boas-vindas ao meu perfil!
+Bem-vindo ao meu perfil!
 
-Meu nome é João Pedro Fernandes de Moura
+Meu nome é João Pedro.
 
  - Estou estudando programação web.
  - Estudo as seguintes linguagens HTML,CSS,Javascript,Python e C++.Mas no momento estou me aprofundando em HTML e CSS.
