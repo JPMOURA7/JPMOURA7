@@ -3,7 +3,7 @@ Bem-vindo ao meu perfil!
 Meu nome é João Pedro.
 
  - Estou estudando programação web.
- - Estudo as seguintes linguagens HTML,CSS,Javascript.Mas no momento estou me aprofundando em HTML e CSS.
+ - Estudo as seguintes linguagens HTML e CSS.Pretendo começar a estudar JavaScript em um fututo próximo.
  - Ultilizo esse perfil para organizar e compartilhar algum de meus projetos,sejam eles individuais ou em grupo.Peço que me ajudem se houver alguma forma de otimizar os meu projetos.
 
 
