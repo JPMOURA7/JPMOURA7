@@ -5,8 +5,12 @@ Meu nome é João Pedro.
 ![](https://media1.tenor.com/m/beBpPQsD4SoAAAAC/chilling-simpson.gif)
 
  - Estou estudando programação web.
- - Estudo as seguintes linguagens HTML,CSS e Javascript.
  - Ultilizo esse perfil para organizar e compartilhar algum de meus projetos,sejam eles individuais ou em grupo.Peço que me ajudem se houver alguma forma de otimizar os meu projetos.
+
+<h1>Estou aprendendo</h1>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
