@@ -20,8 +20,8 @@ Meu nome é João Pedro.
 
 </div>
 <h1>Linguagens usadas recentemente</h1>
- <div>
-  <a href="https://github.com/jpmoura7">
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmoura7&layout=compact&langs_count=7&theme=dracula"/>
-  <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api? username=jpmoura7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- </div>
+<div>
+<a href="https://github.com/jpmoura7">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jpmoura7&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?jpmoura7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
