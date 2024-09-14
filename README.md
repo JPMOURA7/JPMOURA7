@@ -17,6 +17,7 @@ Meu nome é João Pedro.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" width="60" height="60"/>
   <img src="https://github.com/user-attachments/assets/a4518a51-9995-46c7-8013-9260742b66b9" width="60" height="60"/>
   <img src="https://github.com/user-attachments/assets/595e01b9-c9c2-4446-9e79-b0efcd0a9b79" widht="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" widht="60" height="60"/>
 </div>
 <h1>Linguagens usadas recentemente</h1>
 <div>
