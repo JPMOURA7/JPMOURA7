@@ -4,6 +4,7 @@ Meu nome é João Pedro.
 
 
  - Estou estudando programação web.
+ - Estou convencido que me tornarei o melhor programador!
  - Ultilizo esse perfil para organizar e compartilhar algum de meus projetos,sejam eles individuais ou em grupo.Peço que me ajudem se houver alguma forma de otimizar os meu projetos.
 
 <h1>Estou aprendendo</h1>
@@ -12,6 +13,10 @@ Meu nome é João Pedro.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/>
+
+ <h1>Back-End</h1>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="60" height="60"/>
  
  <h1>Ferramentas</h1>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/p5js/p5js-original.svg" width="60" height="60"/>
