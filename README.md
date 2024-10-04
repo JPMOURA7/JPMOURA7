@@ -31,4 +31,3 @@ Meu nome é João Pedro.
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=jpmoura7&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
  
-*\![](https://media1.tenor.com/m/beBpPQsD4SoAAAAC/chilling-simpson.gif)/*
