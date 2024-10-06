@@ -2,7 +2,7 @@
 
 Meu nome é João Pedro.
 
-
+ - Iniciei recentemente minha jornada na programação, sempre buscando aprender e superar desafios. Apesar das limitações iniciais, meu amor por tecnologia e o desejo de criar soluções inovadoras têm sido minha maior motivação. Estou comprometido em continuar evoluindo e aplicando esse conhecimento em projetos práticos
  - Estou estudando programação web.
  - Estou convencido que me tornarei o melhor programador!
  - Ultilizo esse perfil para organizar e compartilhar algum de meus projetos,sejam eles individuais ou em grupo.Peço que me ajudem se houver alguma forma de otimizar os meu projetos.
